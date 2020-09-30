@@ -1,0 +1,39 @@
+|ON|Information about cutscene goes here||||
+|ON|0|Couple - 45316|Cartoon - On & On (feat. Daniel Levi) [NCS Release]|OnAndOn|||
+|ON|10|Wedding - 422|Hold me close 'til I get up||||
+|ON|13|Time - 6358|Time is barely on our side||||
+|ON|17|Bottle - 19543|I don't wanna waste what's left||||
+|ON|21|Rain - 305|The storms we chase are leading us||||
+|ON|24|Hands - 421|And love is all we'll ever trust, yeah||||
+|ON|27|Garbage Truck - 47518|No, I don't wanna waste what's left||||
+|ON|32|Background - 13950|And on and on we'll go||||
+|ON|37|Bridge - 23611|Through the wastelands, through the highways||||
+|ON|40|Sun Rays - 19607|'Til my shadow turns to sunrays||||
+|ON|42|Love - 32590|And on and on we'll go||||
+|ON|48|Road - 45697|Through the wastelands, through the highways||||
+|ON|53|Drive - 35124|And on and on we'll go||||
+|ON|82|Restaurant - 3152|Finding life along the way||||
+|ON|85|Notes - 13203|Melodies we haven't played||||
+|ON|89|Paraglider - 49509|No, I don't want no rest||||
+|ON|93|Space - 17847|Echoing around these walls||||
+|ON|96|Karate - 1031|Fighting to create a song||||
+|ON|101|Waveform - 5369|I don't wanna miss a beat||||
+|ON|103|Airport - 3586|And on and on we'll go||||
+|ON|109|Road - 1101|Through the wastelands, through the highways||||
+|ON|112|Star - 5191|'Til my shadow turns to sunrays||||
+|ON|114|Walk - 3974|And on and on we'll go||||
+|ON|119|Car - 2165|Through the wastelands, through the highways||||
+|ON|123|Sunrise - 30850|And on and on we'll go||||
+|ON|147|Numbers - 10853|And we'll grow in number||||
+|ON|150|Lightning - 28067|Fueled by thunder, see the horizon||||
+|ON|155|Saigon - 14385|Turn us to thousands||||
+|ON|160|Love - 32021|And we'll grow in number||||
+|ON|163|Car - 5715|Fueled by thunder, see the horizon||||
+|ON|165|Love - 1461|Turn us to thousands||||
+|ON|170|Clouds - 7399|And on and on we'll go||||
+|ON|175|Driving - 536|Through the wastelands, through the highways||||
+|ON|178|Waterplane - 431|'Til my shadow turns to sunrays||||
+|ON|180|Mountains - 7418|And on and on we'll go||||
+|ON|185|Clouds - 27197|Through the wastelands, through the highways||||
+|ON|188|Sunset - 17243|And on and on we'll go||||
+|ON|205||||END||
